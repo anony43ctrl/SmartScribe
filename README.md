@@ -20,12 +20,6 @@
 
 ---
 
-## 🌐 Live Environment
-
-Access the platform here: [**Launch Smart Scribe**](https://note-minds.vercel.app/)
-
----
-
 ## 💡 Why Smart Scribe?
 
 In an era of information overload, the bottleneck isn't finding information—it's **processing** it. **Smart Scribe** was built for those who need to master complex documents quickly. Whether you are analyzing reports or studying dense materials, this assistant uses AI to act as a bridge between a long document and your own understanding.
